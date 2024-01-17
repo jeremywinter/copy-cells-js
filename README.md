@@ -1,2 +1,2 @@
 # copy-cells-js
-google spread sheet function to copy and paste cell as new rows are added
+Google Apps Script for Google Spreadsheet This function copies and pastes cells as new rows are added
